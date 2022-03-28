@@ -1,0 +1,164 @@
+
+Funel - Agancy landing page
+
+
+# HEADER
+
+alt = Funel logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+Home
+What we do
+Why us?
+Our work
+Contact
+Get in touch
+
+
+
+# HERO
+
+Your full-funnel growth agency
+
+Capture and retrieve your lists across devices to help you stay organized at work, home, and on the go.
+
+Get started
+
+alt = shape
+
+
+
+# ABOUT
+
+What we do
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+<ion-icon name="briefcase-outline"></ion-icon>
+Paid Search and Social Management
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back
+
+<ion-icon name="chatbubbles-outline"></ion-icon>
+Direct Response Content
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back
+
+<ion-icon name="rocket-outline"></ion-icon>
+CRO and Retention Optimizations
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back
+
+alt = about banner
+
+We’re obsessed with growth
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+Sign Up For Free
+
+
+
+# FEATURES
+
+Our team is made up of all different backgrounds from all over the world.
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+alt = feature banner
+
+Cover your everyday expenses
+
+Inspiration comes in many ways and you like to save everything from. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = feature banner
+
+We offer low fees that are transparent
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development of the asset through its charitable foundation.
+
+
+
+
+# CTA
+
+Try for 7 days free
+
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back.
+
+placeholder = Your email address
+
+Try It Now
+
+
+
+# CONTACT
+
+Let’s scale your brand, together
+
+alt = contact banner
+
+Name *
+placeholder = Type Name
+
+Phone
+placeholder = Type Phone Number
+
+Email Address *
+placeholder = Type Email Address
+
+How can we help? *
+placeholder = Type Description
+
+Send Message
+
+
+
+# FOOTER
+
+alt = Funel logo
+
+Follow us on
+
+href = https://github.com/codewithsadee
+<ion-icon name="logo-github"></ion-icon>
+
+href = https://instagram.com/codewithsadee
+<ion-icon name="logo-instagram"></ion-icon>
+
+href = https://youtube.com/c/codewithsadee
+<ion-icon name="logo-youtube"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+
+Company
+
+About Us
+Features
+Pricing
+
+
+Products
+
+Blog
+Help Center
+Contact
+
+
+Resources
+
+FAQ’S
+Testimonial
+Terms & Conditions
+
+
+Relevent
+
+Why
+Products
+Customers
+
+&copy; 2022 @codewithsadee All right reserved
+
+<ion-icon name="chevron-up-outline"></ion-icon>

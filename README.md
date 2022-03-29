@@ -9,7 +9,7 @@
   <br />
   <br />
   
-  <img src="./website-demo-image/project-logo.png" />
+  <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Funel - Agency landing page</h2>
 

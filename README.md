@@ -24,8 +24,8 @@
 
 ### Demo Screeshots
 
-![Funel Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Funel Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Funel Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Funel Mobile Demo](./readme-images/mobile.png "Mobile Demo")
 
 ### Prerequisites
 

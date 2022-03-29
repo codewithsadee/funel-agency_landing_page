@@ -1,18 +1,21 @@
 <div align="center">
-
-  <img src="./website-demo-image/project-logo.png" />
-
-  <h2 align="center">Funel - Agency landing page</h2>
-
+  
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/funel-agency_landing_page)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/funel-agency_landing_page?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/funel-agency_landing_page?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/link?style=social)](https://youtu.be/link)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CDRcfbHyRqw?style=social)](https://youtu.be/CDRcfbHyRqw)
 
-  Funel is a fully responsive digital agency landing page, responsive for all devices, built using HTML, CSS, and JavaScript.
+  <br />
+  <br />
+  
+  <img src="./website-demo-image/project-logo.png" />
 
-  <a href=""><strong>Live Demo</strong></a>
+  <h2 align="center">Funel - Agency landing page</h2>
+
+  Funel is a fully responsive digital agency landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  <a href=""><strong>➥ Live Demo</strong></a>
 
 </div>
 

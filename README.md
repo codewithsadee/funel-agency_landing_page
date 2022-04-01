@@ -40,13 +40,13 @@ To install **Funel**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/naft-nft_marketplace.git
+sudo git clone https://github.com/codewithsadee/funel-agency_landing_page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/naft-nft_marketplace.git
+git clone https://github.com/codewithsadee/funel-agency_landing_page.git
 ```
 
 ### Contact
